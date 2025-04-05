@@ -55,7 +55,7 @@ div.offcanvas-body{
 
 h1 {
   font-size: 2.5rem;
-  color: white;
+  color: white !important;
 }
 
 h2 {
@@ -64,6 +64,7 @@ h2 {
 
 h3 {
   font-size: 1.75rem;
+  color: white !important;
 }
 
 .highlight {
@@ -72,6 +73,7 @@ h3 {
 }
 p {
   font-size: 1.1rem;
+  color: white !important;
 }
 
 /* Social Media Icons */
@@ -97,8 +99,8 @@ p {
 
 /* Button */
 .btn-primary {
-  background-color: #00e0ff;
-  border-color: #00e0ff;
+  background-color: #00e0ff !important;
+  border-color: #00e0ff !important;
   box-shadow: 0 5px 15px rgba(0, 224, 255, 0.5);
 }
 
@@ -176,6 +178,7 @@ p {
 .about-me h2 {
   font-size: 3rem;
   color: white;
+  
 }
 
 .about-me h3 {
@@ -187,6 +190,7 @@ p {
   font-size: 1.1rem;
   margin-bottom: 30px;
 }
+
 
 .highlight {
   color: #00e0ff;
